@@ -23,4 +23,4 @@ Minimum requirements:
 <img width="682" height="166" alt="2026-09-06_12-48-34" src="https://github.com/user-attachments/assets/c951610d-6e84-41be-9714-651cb8b34e09" />
 
 ## Why is this system distributed?
-This system is distributed because there are two separate process runtimes trying to communicate over a network. Since they both run on two different runtimes, any network or service downtime causes the communicate to fail as shown in the screenshot.
+This system is distributed because there are two separate processes trying to communicate over a network. Since they both run as two independent processes, any network or service downtime causes the communication to fail as shown in the screenshot.
